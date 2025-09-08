@@ -1,0 +1,17 @@
+# Ignore all notebooks and CSVs
+*.ipynb
+*.csv
+
+# Selected files
+!1-MainModel.ipynb
+!2-AgeBasedModel.ipynb
+!3-WeeklyProjection.ipynb
+!4-CoefficientAdjustment.ipynb
+!5-Lockdown.ipynb
+!6-LowCasesScenario.ipynb
+
+!Thuringen_agegroup_vaccination.csv
+!Thuringen_daily_vaccination.csv
+!Thuringen_SIRD_2.csv
+!Thuringen_SIRD_raw_2.csv
+!Thuringen-SIRD-Grouped-2.csv
