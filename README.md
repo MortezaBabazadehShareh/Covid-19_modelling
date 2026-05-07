@@ -1,5 +1,7 @@
 # COVID-19 Modelling Code for Thuringia
 
+[![DOI](https://zenodo.org/badge/1052558399.svg)](https://doi.org/10.5281/zenodo.20069396)
+
 This repository contains the code and data files used to reproduce the modelling results for the manuscript submitted to PLOS ONE. It includes the final reproducibility files: eight Julia notebooks, five CSV data files, and the Julia project environment.
 
 ## Tracked Files
@@ -83,3 +85,7 @@ notebook()
 - The numbered notebooks should be run in order within each notebook.
 - Some notebooks perform optimisation, MCMC sampling, or neural-network fitting and may take a long time to run.
 - Generated figures are outputs of the notebooks and are not tracked as source files in this repository.
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file in this repository for the full license text.
