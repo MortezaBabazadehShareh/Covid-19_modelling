@@ -1,6 +1,6 @@
 # COVID-19 Modelling Code for Thuringia
 
-This repository contains the code and data files used to reproduce the modelling results for the associated paper. The tracked repository is intentionally limited to the final reproducibility files: eight Julia notebooks, five CSV data files, and the Julia project environment.
+This repository contains the code and data files used to reproduce the modelling results for the manuscript submitted to PLOS ONE. The tracked repository is intentionally limited to the final reproducibility files: eight Julia notebooks, five CSV data files, and the Julia project environment.
 
 ## Tracked Files
 
