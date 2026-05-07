@@ -9,6 +9,8 @@
 !4-CoefficientAdjustment.ipynb
 !5-Lockdown.ipynb
 !6-LowCasesScenario.ipynb
+!7-SindySmoothingSensitivity.ipynb
+!8-SindyConvolutionSensitivity.ipynb
 
 !Thuringen_agegroup_vaccination.csv
 !Thuringen_daily_vaccination.csv
